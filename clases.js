@@ -47,7 +47,7 @@ class Empleado {
     "001",
     "Percy Edgar",
     "Quispe Quispe",
-    "1oercyqq@gmail.com",
+    "1percyqq@gmail.com",
     "Programador"
   );
   console.log(empleado1)
